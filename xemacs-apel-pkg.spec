@@ -2,7 +2,7 @@ Summary:	A Portable Emacs Library. Used by XEmacs MIME support
 Summary(pl):	A Portable Emacs Library. Used by XEmacs MIME support
 Name:		xemacs-apel-pkg
 %define 	srcname	apel
-Version:	1.19
+Version:	1.20
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
