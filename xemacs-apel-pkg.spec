@@ -1,5 +1,4 @@
 Summary:	A Portable Emacs Library. Used by XEmacs MIME support
-Summary(pl):	A Portable Emacs Library. Used by XEmacs MIME support
 Name:		xemacs-apel-pkg
 %define 	srcname	apel
 Version:	1.20
@@ -17,8 +16,7 @@ Requires:	xemacs-base-pkg
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-
-%description -l pl 
+A Portable Emacs Library. Used by XEmacs MIME support.
 
 %prep
 %setup -q -c
