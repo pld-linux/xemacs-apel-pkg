@@ -3,7 +3,7 @@ Summary(pl):	Przeno¶na biblioteka Emacsa - u¿ywana przez obs³ugê MIME XEmacsa
 Name:		xemacs-apel-pkg
 %define 	srcname	apel
 Version:	1.27
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
