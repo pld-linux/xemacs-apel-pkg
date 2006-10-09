@@ -2,12 +2,12 @@ Summary:	A Portable Emacs Library - used by XEmacs MIME support
 Summary(pl):	Przeno¶na biblioteka Emacsa - u¿ywana przez obs³ugê MIME XEmacsa
 Name:		xemacs-apel-pkg
 %define 	srcname	apel
-Version:	1.27
-Release:	2
+Version:	1.32
+Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	2f35080836afe0730b2fe664f90b01be
+# Source0-md5:	0c3f9d60d3bdaf4a7f4eaf2bdf656e84
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
