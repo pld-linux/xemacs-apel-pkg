@@ -1,5 +1,5 @@
 Summary:	A Portable Emacs Library - used by XEmacs MIME support
-Summary(pl.UTF-8):   Przenośna biblioteka Emacsa - używana przez obsługę MIME XEmacsa
+Summary(pl.UTF-8):	Przenośna biblioteka Emacsa - używana przez obsługę MIME XEmacsa
 Name:		xemacs-apel-pkg
 %define 	srcname	apel
 Version:	1.32
